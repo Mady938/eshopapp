@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "490799198636",
+    "project_id": "richzoneapp-b0853",
+    "storage_bucket": "richzoneapp-b0853.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:490799198636:android:d1c9e9e8367d792db98a09",
+        "android_client_info": {
+          "package_name": "com.richzone.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "490799198636-3kkm55denamhms5s0lr2g5ilavvq39ts.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAK8juCgT29HR41Ax1o4cGq9HL7v7IYNow"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "490799198636-3kkm55denamhms5s0lr2g5ilavvq39ts.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "490799198636-4po5oe2dul036pm1878dtv38kjanvfst.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.richzone.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
